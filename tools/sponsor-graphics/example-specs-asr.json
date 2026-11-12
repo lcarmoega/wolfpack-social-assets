@@ -1,0 +1,126 @@
+[
+ {
+  "id": "01a-spotlight",
+  "size": "feed",
+  "eyebrow": "PACK ALPHA SPOTLIGHT",
+  "h1": "Welcome to the Pack,<br><em>Pack Alpha!</em>",
+  "card": "full",
+  "body": "Thank you, <b>American Sprinkler Repair</b>, for your Alpha-level donation to our athletes this season."
+ },
+ {
+  "id": "01b-funds",
+  "size": "feed",
+  "eyebrow": "PACK ALPHA SPOTLIGHT",
+  "h1": "Your donation <em>at work</em>",
+  "list": [
+   "Athlete scholarships",
+   "Team gear &amp; uniforms",
+   "Tournament entry fees",
+   "Training &amp; athlete development"
+  ],
+  "card": "mini",
+  "body": "Here's what your donation helps fund this season:"
+ },
+ {
+  "id": "01s-spotlight",
+  "size": "story",
+  "eyebrow": "PACK ALPHA SPOTLIGHT",
+  "h1": "Meet our<br><em>2026–27 Pack Alpha</em>",
+  "card": "full",
+  "body": "Thank you, <b>American Sprinkler Repair</b>, for your Alpha-level donation to our athletes."
+ },
+ {
+  "id": "02-thanksgiving",
+  "size": "feed",
+  "eyebrow": "HAPPY THANKSGIVING",
+  "h1": "This year<br>the Pack is <em>thankful</em> for",
+  "card": "full",
+  "tag": "OUR PACK ALPHA",
+  "body": "Your donation keeps club volleyball within reach for families across our community."
+ },
+ {
+  "id": "02s-thanksgiving",
+  "size": "story",
+  "eyebrow": "HAPPY THANKSGIVING",
+  "h1": "Grateful for<br>our <em>Pack Alpha</em>",
+  "card": "full",
+  "body": "Thank you, <b>American Sprinkler Repair</b>, for standing behind our athletes this season. 🧡🖤"
+ },
+ {
+  "id": "03-since1954",
+  "size": "feed",
+  "eyebrow": "PACK ALPHA SPOTLIGHT",
+  "big": "1954",
+  "h1": "Serving North Texas<br>for <em>72 years</em>",
+  "card": "mini",
+  "body": "Our Pack Alpha has been part of North Texas communities since 1954. We're proud to have them in our corner."
+ },
+ {
+  "id": "04-gear",
+  "size": "feed",
+  "eyebrow": "PACK ALPHA SPOTLIGHT",
+  "h1": "Repping our<br><em>Pack Alpha</em><br>all season",
+  "card": "full",
+  "body": "Look for their logo on our warm-ups and practice shirts at every practice and tournament."
+ },
+ {
+  "id": "04s-gear",
+  "size": "story",
+  "eyebrow": "PACK ALPHA SPOTLIGHT",
+  "h1": "Spot this logo<br>on our <em>warm-ups</em>",
+  "card": "full",
+  "body": "Our Pack Alpha travels with us to every practice and tournament this season."
+ },
+ {
+  "id": "05-hometown",
+  "size": "feed",
+  "eyebrow": "PACK ALPHA SPOTLIGHT",
+  "h1": "A <em>hometown</em><br>Pack Alpha",
+  "card": "mini",
+  "body": "Lewisville-based, serving communities across Denton County and North Texas, including:",
+  "chips": [
+   "Lewisville",
+   "Denton",
+   "Little Elm",
+   "The Colony",
+   "Cross Roads",
+   "Corinth",
+   "Lake Dallas",
+   "Flower Mound"
+  ],
+  "h1size": 110
+ },
+ {
+  "id": "06-midseason",
+  "size": "feed",
+  "eyebrow": "MIDSEASON THANK YOU",
+  "h1": "Halfway there.<br><em>Still grateful.</em>",
+  "card": "full",
+  "body": "Thank you to our Pack Alpha for keeping our athletes on the court all season long."
+ },
+ {
+  "id": "06s-midseason",
+  "size": "story",
+  "eyebrow": "MIDSEASON THANK YOU",
+  "h1": "Halfway through<br>the season with our<br><em>Pack Alpha</em>",
+  "card": "full",
+  "body": "Thank you for keeping the Pack on the court. 🏐"
+ },
+ {
+  "id": "07-wrap",
+  "size": "feed",
+  "eyebrow": "SEASON WRAP",
+  "h1": "That's a wrap<br>on <em>2026–27</em>",
+  "card": "full",
+  "tag": "THANK YOU, PACK ALPHA",
+  "body": "Every rep, every match, every athlete. Thank you for standing behind the Pack."
+ },
+ {
+  "id": "07s-wrap",
+  "size": "story",
+  "eyebrow": "SEASON WRAP",
+  "h1": "Thank you,<br><em>Pack Alpha</em>",
+  "card": "full",
+  "body": "From the first practice to the last point of 2026–27, thank you, <b>American Sprinkler Repair</b>."
+ }
+]
