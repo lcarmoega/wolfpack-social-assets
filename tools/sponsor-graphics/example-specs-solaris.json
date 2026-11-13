@@ -1,0 +1,78 @@
+[
+ {
+  "id": "sol-01a-intro",
+  "size": "feed",
+  "logo": "solaris_logo_white.png",
+  "eyebrow": "MEET OUR SPONSOR",
+  "h1": "Welcome to the Pack,<br><em>Solaris</em><br><em>Healthcare!</em>",
+  "card": "full",
+  "body": "Thank you for your donation to our athletes this season. 🧡🖤"
+ },
+ {
+  "id": "sol-01b-who",
+  "size": "feed",
+  "logo": "solaris_logo_white.png",
+  "eyebrow": "MEET OUR SPONSOR",
+  "h1": "Who they <em>are</em>",
+  "list": [
+   "Founded in Texas in 1998",
+   "Clinician-owned &amp; operated",
+   "Hospice, home health &amp; palliative care",
+   "Offices in Gainesville, Denton &amp; across Texas"
+  ],
+  "card": "mini",
+  "body": "A Texas healthcare family caring for patients at home in rural communities like ours."
+ },
+ {
+  "id": "sol-01s-intro",
+  "size": "story",
+  "logo": "solaris_logo_white.png",
+  "eyebrow": "MEET OUR SPONSOR",
+  "h1": "Welcome to the Pack,<br><em>Solaris Healthcare</em>",
+  "card": "full",
+  "body": "Caring for North Texas families since 1998. Thank you for backing our athletes!"
+ },
+ {
+  "id": "sol-02-hometown",
+  "size": "feed",
+  "logo": "solaris_logo_white.png",
+  "eyebrow": "SPONSOR SPOTLIGHT",
+  "h1": "Right here in<br><em>Gainesville</em> &amp; <em>Denton</em>",
+  "card": "full",
+  "body": "Our sponsor Solaris Healthcare has local offices in the same communities many Pack families call home."
+ },
+ {
+  "id": "sol-02s-hometown",
+  "size": "story",
+  "logo": "solaris_logo_white.png",
+  "eyebrow": "SPONSOR SPOTLIGHT",
+  "h1": "A <em>hometown</em><br>sponsor",
+  "card": "full",
+  "body": "Thank you, <b>Solaris Healthcare</b>, for supporting the Pack. 🏐"
+ },
+ {
+  "id": "sol-03-heart",
+  "size": "feed",
+  "logo": "solaris_logo_white.png",
+  "eyebrow": "SPONSOR SPOTLIGHT",
+  "h1": "A sponsor<br>with <em>heart</em>",
+  "list": [
+   "Caring for Texas families since 1998",
+   "Volunteers of all ages serving patients",
+   "Rooted in rural communities",
+   "Their own employee band plays local events"
+  ],
+  "card": "mini",
+  "body": "We're proud to have Solaris Healthcare in our corner."
+ },
+ {
+  "id": "sol-04-wrap",
+  "size": "feed",
+  "logo": "solaris_logo_white.png",
+  "eyebrow": "SEASON WRAP",
+  "h1": "Thank you for<br>a great <em>2026–27</em>",
+  "card": "full",
+  "tag": "THANK YOU, SOLARIS HEALTHCARE",
+  "body": "Thank you for standing behind our athletes all season long. 🐺🐸"
+ }
+]
